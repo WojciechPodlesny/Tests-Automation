@@ -1,2 +1,5 @@
 # Tests-Automation
-Automated testing using the Cypress framework
+Automated testing for www.automationexercise.com applications using the Cypress framework.
+
+
+
